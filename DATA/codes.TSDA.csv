@@ -1,0 +1,15 @@
+code,category,colors
+U,G|Eurasia,brown
+C,H|Western North America,lightblue
+E,I|Eastern North America,darkblue
+M,"J|Mexico, Central America, S.W. U.S.A.",orange
+Evergreen,K|Evergreen,darkgreen
+Brevideciduous,L|Brevideciduous,palegreen3
+Deciduous,M|Deciduous,palegreen
+CR,N|Critically Endangered,red
+EN,O|Endangered,black
+VU,P|Vulnerable,gray20
+NT,Q|Near Threatened,gray40
+LC,R|Least Concern,gray60
+DD,S|Data Deficient,gray75
+NE,T|Not evaluated,gray90
